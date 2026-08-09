@@ -1,0 +1,9 @@
+cust_id,name,city,age,gender
+C01,Aarav,Mumbai,28,M
+C02,Bhavya,Delhi,32,F
+C03,Chirag,Bangalore,26,M
+C04,Diya,Mumbai,,F
+C05,Eshan,Pune,30,M
+C06,Farah,Delhi,29,F
+C07,Gaurav,Bangalore,40,M
+C08,Hina,Mumbai,27,
